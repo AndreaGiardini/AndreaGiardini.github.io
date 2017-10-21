@@ -1,0 +1,25 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+highlighter: true
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Andrea Giardini
+
+title: Andrea Giardini
+description: So long, and thanks for all the scripts
+author:
+  name: Andrea Giardini
+  email: contact@andreagiardini.com
+  github: AndreaGiardini
+  twitter: GiardiniAndrea
+  pinterest: 
+  linkedin: giardiniandrea
+  bio: So long, and thanks for all the scripts
+  email_md5: a59ae1c59de8b9079ec0241042eb8477
+
+BASE_PATH:
